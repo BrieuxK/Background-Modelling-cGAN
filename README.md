@@ -19,8 +19,9 @@
   <img src="https://github.com/user-attachments/assets/fca9175f-c5f1-487e-9a27-fb33b42bc799" width="40%" />
 </p>
 
-
-<img src="https://github.com/user-attachments/assets/a0e64bd9-040f-4396-8253-bd1a8fe15748" width="30%" />
-<img src="https://github.com/user-attachments/assets/d980801f-1acd-4dde-a627-fb8933cfcaa0" width="30%" />
-<img src="https://github.com/user-attachments/assets/86974b6b-9476-437d-9cfe-0b8abe39af65" width="30%" />
-
+<!-- Row 2 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a0e64bd9-040f-4396-8253-bd1a8fe15748" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d980801f-1acd-4dde-a627-fb8933cfcaa0" width="30%" />
+  <img src="https://github.com/user-attachments/assets/86974b6b-9476-437d-9cfe-0b8abe39af65" width="30%" />
+</p>
